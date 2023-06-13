@@ -5,6 +5,7 @@ This notebook is a hands-on project, completed by me in COURSERA. This notebook 
 NumPy and Pandas are two of the most widely used python libraries in Data Science. They offer high-performance, easy to use structures and data analysis tools.
 
 GUIDED PROJECT LINK: https://www.coursera.org/projects/python-for-data-analysis-numpy
+
 ESTIMATED TIME: 1 Hour
 
 # Course Objectives
@@ -32,4 +33,4 @@ This course, focuses on the following learning objectives:
 
 • Perform sorting and ordering in Pandas
 
-Perform concatenating and merging with Pandas
+• Perform concatenating and merging with Pandas
